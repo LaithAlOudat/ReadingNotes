@@ -1,0 +1,2 @@
+
+#### I learned from this website what is the Markdown which is an easy-to-use syntax to style all forms of writing. I can use this syntax in GitHub platform  and my own text editor. also I learned some examples to syntax text from the website. There are some features are available in GitHub descriptions and comments of Issues and Pull Requests. These include mentions as well as references to SHA-1 hashes, Issues, emojis, and Pull Requests
