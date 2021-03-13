@@ -21,7 +21,7 @@
 
 | read #     | lectures' titles and links                                               |
 |:----------:|:-----------:                                                             |
-| read01     |[]()        |
+| read01     |[PreWork](https://laithaloudat.github.io/ReadingNotes/read201-1)        |
 | read02     |[]()         |
 | read03     |[]()      |
 | read04     |[]()      |
