@@ -8,8 +8,8 @@
 
 | read #      | lectures' titles and links                                               |
 |:-----------:|:-----------:                                                             |
-| read01      |[Choosing a Text Editor / The Coder's Computer]()        |
-| read02a     |[Mastering Markdown / Learning Markdown]()         |
+| read01      |[Choosing a Text Editor / The Coder's Computer](https://laithaloudat.github.io/ReadingNotes/read01)        |
+| read02a     |[Mastering Markdown / Learning Markdown](https://laithaloudat.github.io/ReadingNotes/read02a)         |
 | read02b     |[Git & GitHub / Revisions and the Cloud]()      |
 | read03      |[HTML / Structure web pages with HTML]()      |
 | read04a     |[Java Script / Programming with JavaScript]()       |
