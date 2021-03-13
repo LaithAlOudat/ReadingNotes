@@ -16,3 +16,16 @@
 | read04b     |[How Computers work / Computer Architecture and Logic]()   |
 | read04c     |[Do Along / Dynamic web pages with JavaScript]()|
 | read05      |[Loops and Operators]()|
+
+#### Reading Notes for 201 coding course:-
+
+| read #     | lectures' titles and links                                               |
+|:----------:|:-----------:                                                             |
+| read01     |[]()        |
+| read02     |[]()         |
+| read03     |[]()      |
+| read04     |[]()      |
+| read05     |[]()       |
+| read06     |[]()   |
+| read07     |[]()|
+| read08     |[]()|
