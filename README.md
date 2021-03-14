@@ -22,7 +22,7 @@
 | read #     | lectures' titles and links                                               |
 |:----------:|:-----------:                                                             |
 | read01     |[PreWork](https://laithaloudat.github.io/ReadingNotes/read201-1)        |
-| read02     |[]()         |
+| read02     |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://laithaloudat.github.io/ReadingNotes/class-02)         |
 | read03     |[]()      |
 | read04     |[]()      |
 | read05     |[]()       |
