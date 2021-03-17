@@ -24,7 +24,7 @@
 | read01     |[PreWork](https://laithaloudat.github.io/ReadingNotes/read201-1)        |
 | read02     |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://laithaloudat.github.io/ReadingNotes/class-02)         |
 | read03     |[HTML Lists, CSS Boxes, JS Control Flow](https://laithaloudat.github.io/ReadingNotes/class-03)      |
-| read04     |[]()      |
+| read04     |[HTML Links, CSS Layout, JS Functions](https://laithaloudat.github.io/ReadingNotes/class-04)      |
 | read05     |[]()       |
 | read06     |[]()   |
 | read07     |[]()|
