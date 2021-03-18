@@ -17,6 +17,7 @@
 | read04c     |[Do Along / Dynamic web pages with JavaScript](https://laithaloudat.github.io/reading04c/)|
 | read05      |[Loops and Operators](https://laithaloudat.github.io/ReadingNotes/read05)|
 | read06b     |[CSS and colors](https://laithaloudat.github.io/ReadingNotes/read06b) |
+
 #### Reading Notes for 201 coding course:-
 
 | read #     | lectures' titles and links                                               |
@@ -25,7 +26,7 @@
 | read02     |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://laithaloudat.github.io/ReadingNotes/class-02)         |
 | read03     |[HTML Lists, CSS Boxes, JS Control Flow](https://laithaloudat.github.io/ReadingNotes/class-03)      |
 | read04     |[HTML Links, CSS Layout, JS Functions](https://laithaloudat.github.io/ReadingNotes/class-04)      |
-| read05     |[]()       |
+| read05     |[HTML Images; CSS Color & Text](https://laithaloudat.github.io/ReadingNotes/class-05)       |
 | read06     |[]()   |
 | read07     |[]()|
 | read08     |[]()|
