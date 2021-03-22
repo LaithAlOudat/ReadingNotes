@@ -27,6 +27,6 @@
 | read03     |[HTML Lists, CSS Boxes, JS Control Flow](https://laithaloudat.github.io/ReadingNotes/class-03)      |
 | read04     |[HTML Links, CSS Layout, JS Functions](https://laithaloudat.github.io/ReadingNotes/class-04)      |
 | read05     |[HTML Images; CSS Color & Text](https://laithaloudat.github.io/ReadingNotes/class-05)       |
-| read06     |[]()   |
-| read07     |[]()|
+| read06     |[JS Object Literals; The DOM](https://laithaloudat.github.io/ReadingNotes/class-06)   |
+| read07     |[HTML Tables; JS Constructor Functions](https://laithaloudat.github.io/ReadingNotes/class-07)|
 | read08     |[]()|
