@@ -29,4 +29,4 @@
 | read05     |[HTML Images; CSS Color & Text](https://laithaloudat.github.io/ReadingNotes/class-05)       |
 | read06     |[JS Object Literals; The DOM](https://laithaloudat.github.io/ReadingNotes/class-06)   |
 | read07     |[HTML Tables; JS Constructor Functions](https://laithaloudat.github.io/ReadingNotes/class-07)|
-| read08     |[]()|
+| read08     |[CSS Layout](https://laithaloudat.github.io/ReadingNotes/class-08)|
