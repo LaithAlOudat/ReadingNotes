@@ -29,4 +29,10 @@
 | read05     |[HTML Images; CSS Color & Text](https://laithaloudat.github.io/ReadingNotes/class-05)       |
 | read06     |[JS Object Literals; The DOM](https://laithaloudat.github.io/ReadingNotes/class-06)   |
 | read07     |[HTML Tables; JS Constructor Functions](https://laithaloudat.github.io/ReadingNotes/class-07)|
-| read08     |[CSS Layout](https://laithaloudat.github.io/ReadingNotes/class-08)|
+| read09     |[Forms and Events](https://laithaloudat.github.io/ReadingNotes/class-09)|
+| read10     |[](https://laithaloudat.github.io/ReadingNotes/class-10)|
+| read11     |[](https://laithaloudat.github.io/ReadingNotes/class-11)|
+| read12     |[](https://laithaloudat.github.io/ReadingNotes/class-12)|
+| read13     |[](https://laithaloudat.github.io/ReadingNotes/class-13)|
+| read14     |[](https://laithaloudat.github.io/ReadingNotes/class-14)|
+| read15     |[](https://laithaloudat.github.io/ReadingNotes/class-15)|
