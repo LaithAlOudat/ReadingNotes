@@ -30,7 +30,7 @@
 | read06     |[JS Object Literals; The DOM](https://laithaloudat.github.io/ReadingNotes/class-06)   |
 | read07     |[HTML Tables; JS Constructor Functions](https://laithaloudat.github.io/ReadingNotes/class-07)|
 | read09     |[Forms and Events](https://laithaloudat.github.io/ReadingNotes/class-09)|
-| read10     |[](https://laithaloudat.github.io/ReadingNotes/class-10)|
+| read10     |[Debugging](https://laithaloudat.github.io/ReadingNotes/class-10)|
 | read11     |[](https://laithaloudat.github.io/ReadingNotes/class-11)|
 | read12     |[](https://laithaloudat.github.io/ReadingNotes/class-12)|
 | read13     |[](https://laithaloudat.github.io/ReadingNotes/class-13)|
