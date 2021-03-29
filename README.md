@@ -33,6 +33,6 @@
 | read10     |[Debugging](https://laithaloudat.github.io/ReadingNotes/class-10)|
 | read11     |[Audio, Video, Images](https://laithaloudat.github.io/ReadingNotes/class-11)|
 | read12     |[Canvas element](https://laithaloudat.github.io/ReadingNotes/class-12)|
-| read13     |[](https://laithaloudat.github.io/ReadingNotes/class-13)|
+| read13     |[Local storage](https://laithaloudat.github.io/ReadingNotes/class-13)|
 | read14     |[](https://laithaloudat.github.io/ReadingNotes/class-14)|
 | read15     |[](https://laithaloudat.github.io/ReadingNotes/class-15)|
