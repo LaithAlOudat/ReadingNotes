@@ -34,7 +34,7 @@
 | read11     |[Audio, Video, Images](https://laithaloudat.github.io/ReadingNotes/class-11)|
 | read12     |[Canvas element](https://laithaloudat.github.io/ReadingNotes/class-12)|
 | read13     |[Local storage](https://laithaloudat.github.io/ReadingNotes/class-13)|
-| read14a    |[](https://laithaloudat.github.io/ReadingNotes/class-14a)|
-| read14b    |[](https://laithaloudat.github.io/ReadingNotes/class-14b)|
+| read14a    |[CSS Transforms, Transitions, and Animations](https://laithaloudat.github.io/ReadingNotes/class-14a)|
+| read14b    |[What Google Learned From Its Quest to Build the Perfect Team](https://laithaloudat.github.io/ReadingNotes/class-14b)|
 | read15     |[](https://laithaloudat.github.io/ReadingNotes/class-15)|
 
