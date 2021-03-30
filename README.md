@@ -34,5 +34,7 @@
 | read11     |[Audio, Video, Images](https://laithaloudat.github.io/ReadingNotes/class-11)|
 | read12     |[Canvas element](https://laithaloudat.github.io/ReadingNotes/class-12)|
 | read13     |[Local storage](https://laithaloudat.github.io/ReadingNotes/class-13)|
-| read14     |[](https://laithaloudat.github.io/ReadingNotes/class-14)|
+| read14a    |[](https://laithaloudat.github.io/ReadingNotes/class-14a)|
+| read14b    |[](https://laithaloudat.github.io/ReadingNotes/class-14b)|
 | read15     |[](https://laithaloudat.github.io/ReadingNotes/class-15)|
+
