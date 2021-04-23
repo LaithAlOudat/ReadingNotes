@@ -38,3 +38,22 @@
 | read14b    |[What Google Learned From Its Quest to Build the Perfect Team](https://laithaloudat.github.io/ReadingNotes/class-14b)|
 | read15     |[](https://laithaloudat.github.io/ReadingNotes/class-15)|
 
+#### Reading Notes for 301 coding course:-
+
+| read #     | lectures' titles and links                                               |
+|:----------:|:-----------:                                                             |
+| read01     |[]()|
+| read02     |[]()|
+| read03     |[]()|
+| read04     |[]()|
+| read05     |[]()|
+| read06     |[]()|
+| read07     |[]()|
+| read09     |[]()|
+| read10     |[]()|
+| read11     |[]()|
+| read12     |[]()|
+| read13     |[]()|
+| read14a    |[]()|
+| read14b    |[]()|
+| read15     |[]()|
