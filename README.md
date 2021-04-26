@@ -43,7 +43,7 @@
 | read #     | lectures' titles and links                                               |
 |:----------:|:-----------:                                                             |
 | read01     |[Introduction to React and Components](https://laithaloudat.github.io/ReadingNotes/301-class-1)|
-| read02     |[]()|
+| read02     |[State and Props](https://laithaloudat.github.io/ReadingNotes/301-class-2)|
 | read03     |[]()|
 | read04     |[]()|
 | read05     |[]()|
