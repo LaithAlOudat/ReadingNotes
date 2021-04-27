@@ -45,7 +45,7 @@
 | read01     |[Introduction to React and Components](https://laithaloudat.github.io/ReadingNotes/301-class-1)|
 | read02     |[State and Props](https://laithaloudat.github.io/ReadingNotes/301-class-2)|
 | read03     |[Passing Functions as Props](https://laithaloudat.github.io/ReadingNotes/301-class-3)|
-| read04     |[]()|
+| read04     |[React - Forms](https://laithaloudat.github.io/ReadingNotes/301-class-4)|
 | read05     |[]()|
 | read06     |[]()|
 | read07     |[]()|
