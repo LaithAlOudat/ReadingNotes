@@ -47,7 +47,7 @@
 | read03     |[Passing Functions as Props](https://laithaloudat.github.io/ReadingNotes/301-class-3)|
 | read04     |[React - Forms](https://laithaloudat.github.io/ReadingNotes/301-class-4)|
 | read05     |[Thinking in React](https://laithaloudat.github.io/ReadingNotes/301-class-5)|
-| read06     |[]()|
+| read06     |[What is Nodes ?](https://laithaloudat.github.io/ReadingNotes/301-class-6)|
 | read07     |[]()|
 | read09     |[]()|
 | read10     |[]()|
