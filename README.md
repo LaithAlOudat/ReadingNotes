@@ -48,10 +48,10 @@
 | read04     |[React - Forms](https://laithaloudat.github.io/ReadingNotes/301-class-4)|
 | read05     |[Thinking in React](https://laithaloudat.github.io/ReadingNotes/301-class-5)|
 | read06     |[What is Nodes ?](https://laithaloudat.github.io/ReadingNotes/301-class-6)|
-| read07     |[REST!](https://laithaloudat.github.io/ReadingNotes/301-class-7)|
+| read07     |[!](https://laithaloudat.github.io/ReadingNotes/301-class-7)|
+| read08     |[REST!](https://laithaloudat.github.io/ReadingNotes/301-class-8)|
 | read09     |[]()|
 | read10     |[]()|
-| read11     |[]()|
 | read12     |[]()|
 | read13     |[]()|
 | read14a    |[]()|
