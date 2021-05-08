@@ -50,8 +50,8 @@
 | read06     |[What is Nodes ?](https://laithaloudat.github.io/ReadingNotes/301-class-6)|
 | read07     |[Ref and Var](https://laithaloudat.github.io/ReadingNotes/301-class-7)|
 | read08     |[REST!](https://laithaloudat.github.io/ReadingNotes/301-class-8)|
-| read09     |[](https://laithaloudat.github.io/ReadingNotes/301-class-9)|
-| read10     |[](https://laithaloudat.github.io/ReadingNotes/301-class-10)|
+| read09     |[FUNCTIONAL PROGRAMMING](https://laithaloudat.github.io/ReadingNotes/301-class-9)|
+| read10     |[In memory storage](https://laithaloudat.github.io/ReadingNotes/301-class-10)|
 | read12     |[]()|
 | read13     |[]()|
 | read14a    |[]()|
